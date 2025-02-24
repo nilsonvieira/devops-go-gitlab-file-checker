@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	gitlabURL = "<URL DO GITLAB>"
+	gitlabURL = "<URL DO GITLAB>/api/v4"
 	groupID   = "<NOME DO GRUPO>"
 )
 

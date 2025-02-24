@@ -1,4 +1,4 @@
-module devops-go-gitlabverify-liveness
+module devops-go-gitlab-file-checker
 
 go 1.23
 
